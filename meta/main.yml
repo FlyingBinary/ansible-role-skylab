@@ -11,9 +11,15 @@ galaxy_info:
   categories:
     - system
 dependencies:
-  - roderik.superlumic-homebrew
-  - roderik.superlumic-mysql
-  - roderik.superlumic-php
-  - roderik.superlumic-postgresql
-  - roderik.superlumic-modjk
-  - roderik.superlumic-node
+  - name: IanTaylorFB.superlumic-homebrew
+    version: fbmaster
+  - name: IanTaylorFB.superlumic-mysql
+    version: fbmaster
+  - name: IanTaylorFB.superlumic-php
+    version: fbmaster
+  - name: IanTaylorFB.superlumic-postgresql
+    version: fbmaster
+  - name: IanTaylorFB.superlumic-modjk
+    version: fbmaster
+  - name: IanTaylorFB.superlumic-node
+    version: fbmaster
